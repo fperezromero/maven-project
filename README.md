@@ -7,3 +7,6 @@ https://www.level-up.one/devops-pdf-book
 
 Un buen libro
 Debo leerlo...pero no tengo tiempo
+
+## Notas
+Actualización del proyecto
